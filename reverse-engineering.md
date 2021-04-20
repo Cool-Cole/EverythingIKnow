@@ -27,6 +27,8 @@ for Beginners](https://www.begin.re/) ([HN Discussion](https://news.ycombinator.
 
 [The Ghidra Book (2020)](https://nostarch.com/GhidraBook)
 
+[Reversing Hero (2019)](https://www.reversinghero.com/) - 15 challenges in one binary. The binary is free however the 12 hours of accompanying solution videos are not.
+
 # Free Tools
 
 [Ghidra](https://ghidra-sre.org/) - An open source static binary analysis tool written by the NSA
