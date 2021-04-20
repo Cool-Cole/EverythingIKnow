@@ -39,6 +39,8 @@ for Beginners](https://www.begin.re/) ([HN Discussion](https://news.ycombinator.
 
 [AES Finder](https://github.com/MantechUser/aes-finder) - A utility to find AES keys in running process memory ([HN Discussion](https://news.ycombinator.com/item?id=24390883))
 
-[File (UNIX command)](https://en.wikipedia.org/wiki/File_(command))
+[File (UNIX command)](https://www.man7.org/linux/man-pages/man1/file.1.html) - Used to detect the file types of unkown binaries  [Good Wikipedia artical about it here](https://en.wikipedia.org/wiki/File_(command))
 
-[Strings (UNIX command)](https://en.wikipedia.org/wiki/Strings_(Unix))
+[Strings (UNIX command)](https://linux.die.net/man/1/strings) - Used to find strings in binaries
+
+
