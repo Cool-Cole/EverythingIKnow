@@ -1,6 +1,6 @@
-## Reverse Engineering: Getting started
+# Reverse Engineering: Getting started
 
-# Inspirational reading
+## Inspirational reading
 
 [Bruce Schneier: The Security Mindset (2008)](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html)
 
@@ -12,7 +12,7 @@
 
 [Modding Lego Island 2 part 2 (2021)](https://robbebryssinck.github.io/Modding-an-old-game-which-hardcodes-nearly-everything-LEGO-Island-2-part-2-of-2/)
 
-# Free Guides
+## Free Guides
 
 [Introduction to Reverse Engineering with Ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra)
 
@@ -23,7 +23,7 @@
 [Reverse Engineering
 for Beginners](https://www.begin.re/) ([HN Discussion](https://news.ycombinator.com/item?id=17424057))
 
-# Paid Guides
+## Paid Guides
 
 [The Ghidra Book (2020)](https://nostarch.com/GhidraBook)
 
@@ -31,9 +31,9 @@ for Beginners](https://www.begin.re/) ([HN Discussion](https://news.ycombinator.
 
 [Reverse Engineering for Beginners (2014, last updated 2021)](https://beginners.re/main.html) - A 2020 copy of the book can be viewed [here](https://web.archive.org/web/20201111234229/https://beginners.re/RE4B-EN.pdf) ([HN Discussion](https://news.ycombinator.com/item?id=21640669))
 
-# Free Tools
+## Free Tools
 
-[Ghidra](https://ghidra-sre.org/) - An open source static binary analysis tool written by the NSA
+[Ghidra](https://ghidra-sre.org/) - An open source static binary analysis tool written by the NSA (HN Discussion)[https://news.ycombinator.com/item?id=19315273]
 
 [Binwalk](https://github.com/ReFirmLabs/binwalk) - An open source program that allows for binary static analysis. Mainly used to find out what kinds of files are hidden in executables and firmware.
 
