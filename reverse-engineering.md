@@ -35,7 +35,7 @@ for Beginners](https://www.begin.re/) ([HN Discussion](https://news.ycombinator.
 
 ## Free Tools
 
-[Ghidra](https://ghidra-sre.org/) - An open source static binary analysis tool written by the NSA (HN Discussion)[https://news.ycombinator.com/item?id=19315273]
+[Ghidra](https://ghidra-sre.org/) - An open source static binary analysis tool written by the NSA [HN Discussion](https://news.ycombinator.com/item?id=19315273)
 
 [Binwalk](https://github.com/ReFirmLabs/binwalk) - An open source program that allows for binary static analysis. Mainly used to find out what kinds of files are hidden in executables and firmware.
 
