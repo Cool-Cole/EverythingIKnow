@@ -14,8 +14,6 @@
 
 [Code Vault](https://code-vault.net/) - Tons of nice tutorials about C
 
-[Cprogramming.com](https://www.cprogramming.com/) - A freindly intorduction to C and C++
-
 ## Getting your feet wet
 
 [Project Based Tutorials in C](https://github.com/rby90/project-based-tutorials-in-c#computer-architecture)
