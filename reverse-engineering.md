@@ -45,4 +45,4 @@ for Beginners](https://www.begin.re/) ([HN Discussion](https://news.ycombinator.
 
 [Strings (UNIX command)](https://www.man7.org/linux/man-pages/man1/file.1.html) - Used to find strings in binaries
 
-
+[ltrace (UNIX command)](https://www.ltrace.org/) - ltrace intercepts and records dynamic library calls which are called by an executed process and the signals received by that process. It can also intercept and print the system calls executed by the program. [Man Page](https://www.man7.org/linux/man-pages/man1/ltrace.1.html)
