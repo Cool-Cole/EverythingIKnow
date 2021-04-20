@@ -1,6 +1,6 @@
 # Learning C
 
-(Is there a point to learning C nowadays? (Reddit post))[https://www.reddit.com/r/C_Programming/comments/kggvdx/is_there_a_point_to_learning_c_nowadays/]
+[Is there a point to learning C nowadays? (Reddit post)](https://www.reddit.com/r/C_Programming/comments/kggvdx/is_there_a_point_to_learning_c_nowadays/)
 
 ## Free Guides
 
