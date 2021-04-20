@@ -38,3 +38,7 @@ for Beginners](https://www.begin.re/) ([HN Discussion](https://news.ycombinator.
 [Binwalk](https://github.com/ReFirmLabs/binwalk) - An open source program that allows for binary static analysis. Mainly used to find out what kinds of files are hidden in executables and firmware.
 
 [AES Finder](https://github.com/MantechUser/aes-finder) - A utility to find AES keys in running process memory ([HN Discussion](https://news.ycombinator.com/item?id=24390883))
+
+[File (UNIX command)](https://en.wikipedia.org/wiki/File_(command))
+
+[Strings (UNIX command)](https://en.wikipedia.org/wiki/Strings_(Unix))
