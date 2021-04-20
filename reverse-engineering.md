@@ -29,6 +29,8 @@ for Beginners](https://www.begin.re/) ([HN Discussion](https://news.ycombinator.
 
 [Reversing Hero (2019)](https://www.reversinghero.com/) - 15 challenges in one binary. The binary is free however the 12 hours of accompanying solution videos are not.
 
+[Reverse Engineering for Beginners (2014, last updated 2021)](https://beginners.re/main.html)
+
 # Free Tools
 
 [Ghidra](https://ghidra-sre.org/) - An open source static binary analysis tool written by the NSA
