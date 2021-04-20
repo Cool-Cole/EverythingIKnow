@@ -29,7 +29,7 @@ for Beginners](https://www.begin.re/) ([HN Discussion](https://news.ycombinator.
 
 [Reversing Hero (2019)](https://www.reversinghero.com/) - 15 challenges in one binary. The binary is free however the 12 hours of accompanying solution videos are not.
 
-[Reverse Engineering for Beginners (2014, last updated 2021)](https://beginners.re/main.html) - A 2020 copy of the book can be viewed [here](https://web.archive.org/web/20201111234229/https://beginners.re/RE4B-EN.pdf) [HN Discussion](https://news.ycombinator.com/item?id=21640669)
+[Reverse Engineering for Beginners (2014, last updated 2021)](https://beginners.re/main.html) - A 2020 copy of the book can be viewed [here](https://web.archive.org/web/20201111234229/https://beginners.re/RE4B-EN.pdf) ([HN Discussion](https://news.ycombinator.com/item?id=21640669))
 
 # Free Tools
 
