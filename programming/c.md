@@ -23,3 +23,7 @@
 ## Programming Reasources
 
 [Awesome C](https://github.com/oz123/awesome-c) - A curated list of open source tools for C programs.
+
+## Communities
+
+[/r/C_Programming Subreddit](https://www.reddit.com/r/C_Programming/)
