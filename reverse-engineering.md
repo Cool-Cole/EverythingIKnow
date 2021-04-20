@@ -2,11 +2,15 @@
 
 # Inspirational reading
 
-[Bruce Schneier: The Security Mindset](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html)
+[Bruce Schneier: The Security Mindset (2008)](https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html)
 
-[How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+[How I cut GTA Online loading times by 70% (2021)](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 
-[Legalizing Gay Marriage in Crusader Kings III with Ghidra](https://waffleironer.medium.com/legalizing-gay-marriage-in-crusader-kings-iii-with-ghidra-2602e6aa8689)
+[Legalizing Gay Marriage in Crusader Kings III with Ghidra (2021)](https://waffleironer.medium.com/legalizing-gay-marriage-in-crusader-kings-iii-with-ghidra-2602e6aa8689)
+
+[Modding LEGO Island 2 part 1 (2021)](https://robbebryssinck.github.io/Modding-an-old-game-which-hardcodes-nearly-everything-LEGO-Island-2-part-1-of-2/)
+
+[Modding Lego Island 2 part 2 (2021)](https://robbebryssinck.github.io/Modding-an-old-game-which-hardcodes-nearly-everything-LEGO-Island-2-part-2-of-2/)
 
 # Free Guides
 
