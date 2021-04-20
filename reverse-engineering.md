@@ -16,7 +16,7 @@
 
 [Introduction to Reverse Engineering with Ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra)
 
-[Reverse engineering course by 0xZ0F (2019)](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) (More reasources in the associated [HN Discussion](https://news.ycombinator.com/item?id=22061842))
+[Reverse engineering course by 0xZ0F (2020)](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) (More reasources in the associated [HN Discussion](https://news.ycombinator.com/item?id=22061842))
 
 [Publicly Available Courses and Materials (2020)](https://www.voidstarsec.com/free-courses-materials)
 
