@@ -23,6 +23,8 @@
 [Reverse Engineering
 for Beginners](https://www.begin.re/) ([HN Discussion](https://news.ycombinator.com/item?id=17424057))
 
+[Introduction to x64 Assembly (2012)](https://software.intel.com/content/www/us/en/develop/articles/introduction-to-x64-assembly.html) (HN Discussions [here](https://news.ycombinator.com/item?id=10773849) and [here](https://news.ycombinator.com/item?id=5498272)) (TODO - check one of the HN links)
+
 ## Paid Guides
 
 [The Ghidra Book (2020)](https://nostarch.com/GhidraBook)
