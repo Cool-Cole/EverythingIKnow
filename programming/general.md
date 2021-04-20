@@ -15,7 +15,3 @@ https://repl.it - Online IDE
 https://www.jetbrains.com/pycharm/ - Powerful Python IDE
 
 https://www.jetbrains.com/clion/ - Powerful C/C++ IDE
-
-## Security
-
-https://github.com/MantechUser/aes-finder - Find AES keys in programs memory
