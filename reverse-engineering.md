@@ -6,6 +6,10 @@
 
 Legalizing Gay Marriage in Crusader Kings III with Ghidra - https://waffleironer.medium.com/legalizing-gay-marriage-in-crusader-kings-iii-with-ghidra-2602e6aa8689
 
-# Guides
+# Free Guides
 
-https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra
+Introduction to Reverse Engineering with Ghidra - https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra
+
+# Paid Guides
+
+The Ghidra Book - https://nostarch.com/GhidraBook
