@@ -20,6 +20,9 @@
 
 [Publicly Available Courses and Materials (2020)](https://www.voidstarsec.com/free-courses-materials)
 
+[Reverse Engineering
+for Beginners](https://www.begin.re/) ([HN Discussion](https://news.ycombinator.com/item?id=17424057))
+
 # Paid Guides
 
 [The Ghidra Book (2020)](https://nostarch.com/GhidraBook)
