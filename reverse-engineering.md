@@ -16,7 +16,7 @@
 
 [Introduction to Reverse Engineering with Ghidra](https://hackaday.io/course/172292-introduction-to-reverse-engineering-with-ghidra)
 
-[Reverse engineering course by 0xZ0F (2020)](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) (More reasources in the associated [HN Discussion](https://news.ycombinator.com/item?id=22061842))
+[Reverse engineering course by 0xZ0F (2020)](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) (More resources in the associated [HN Discussion](https://news.ycombinator.com/item?id=22061842))
 
 [Publicly Available Courses and Materials (2020)](https://www.voidstarsec.com/free-courses-materials)
 
@@ -33,16 +33,18 @@ for Beginners](https://www.begin.re/) ([HN Discussion](https://news.ycombinator.
 
 [Reverse Engineering for Beginners (2014, last updated 2021)](https://beginners.re/main.html) - A 2020 copy of the book can be viewed [here](https://web.archive.org/web/20201111234229/https://beginners.re/RE4B-EN.pdf) ([HN Discussion](https://news.ycombinator.com/item?id=21640669))
 
-## Free Tools
+## Free Static Binary Analysis Tools
 
 [Ghidra](https://ghidra-sre.org/) - An open source static binary analysis tool written by the NSA [HN Discussion](https://news.ycombinator.com/item?id=19315273)
 
 [Binwalk](https://github.com/ReFirmLabs/binwalk) - An open source program that allows for binary static analysis. Mainly used to find out what kinds of files are hidden in executables and firmware.
 
-[AES Finder](https://github.com/MantechUser/aes-finder) - A utility to find AES keys in running process memory ([HN Discussion](https://news.ycombinator.com/item?id=24390883))
-
-[File (UNIX command)](https://www.man7.org/linux/man-pages/man1/file.1.html) - Used to detect the file types of unkown binaries  [Good Wikipedia artical about it here](https://en.wikipedia.org/wiki/File_(command))
+[File (UNIX command)](https://www.man7.org/linux/man-pages/man1/file.1.html) - Used to detect the file types of unkown binaries  [Good Wikipedia article about it here](https://en.wikipedia.org/wiki/File_(command))
 
 [Strings (UNIX command)](https://www.man7.org/linux/man-pages/man1/file.1.html) - Used to find strings in binaries
+
+## Free Dynamic Binary Analysis Tools
+
+[AES Finder](https://github.com/MantechUser/aes-finder) - A utility to find AES keys in running process memory ([HN Discussion](https://news.ycombinator.com/item?id=24390883))
 
 [ltrace (UNIX command)](https://www.ltrace.org/) - ltrace intercepts and records dynamic library calls which are called by an executed process and the signals received by that process. It can also intercept and print the system calls executed by the program. ([Man Page](https://www.man7.org/linux/man-pages/man1/ltrace.1.html))
