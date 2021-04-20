@@ -41,6 +41,6 @@ for Beginners](https://www.begin.re/) ([HN Discussion](https://news.ycombinator.
 
 [File (UNIX command)](https://www.man7.org/linux/man-pages/man1/file.1.html) - Used to detect the file types of unkown binaries  [Good Wikipedia artical about it here](https://en.wikipedia.org/wiki/File_(command))
 
-[Strings (UNIX command)](https://linux.die.net/man/1/strings) - Used to find strings in binaries
+[Strings (UNIX command)](https://www.man7.org/linux/man-pages/man1/file.1.html) - Used to find strings in binaries
 
 
