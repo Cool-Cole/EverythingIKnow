@@ -4,6 +4,8 @@
 
 ## Free Guides
 
+[Gain skills in computer engineering by learning C and Linux](https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming-with-linux)
+
 [Perfered coding style for the Linux kernel](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
 
 [Learn C in Y minutes](https://learnxinyminutes.com/docs/c/)
