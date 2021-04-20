@@ -18,7 +18,7 @@
 
 # Paid Guides
 
-[The Ghidra Book (2019)](https://nostarch.com/GhidraBook)
+[The Ghidra Book (2020)](https://nostarch.com/GhidraBook)
 
 # Free Tools
 
