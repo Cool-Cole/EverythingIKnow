@@ -8,9 +8,7 @@ Want to contribute? Just open an issue or pull request or something. I'm not too
 
 []()
 
-## Reverse engineering
-
-[Reverse engineering](https://github.com/Cool-Cole/EverythingIKnow/blob/main/reverse-engineering.md)
+## [Reverse engineering](https://github.com/Cool-Cole/EverythingIKnow/blob/main/reverse-engineering.md)
 
 ## MISC
 
